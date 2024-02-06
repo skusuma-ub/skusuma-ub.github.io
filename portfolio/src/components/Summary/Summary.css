@@ -1,0 +1,35 @@
+section#summary{
+    width: 100%;
+    align-items: center;
+    padding-left: 20%;
+    padding-right: 20%;
+    padding-top: 40px;
+    justify-content: center;  
+    background-color: #cecece54;
+    transition: 0.5s;
+    box-shadow: inset 0 10px 10px rgba(0, 0, 0, .2);
+}
+
+
+section#summary p{
+    padding-left: 50px;
+    padding-bottom: 40px;
+    padding-top: 20px;
+    line-height: 1.4rem;
+    font-size: 1.2rem;
+    justify-content: center;  
+}
+
+
+
+.containerdark section#summary{
+    width: 100%;
+    align-items: center;
+    padding-left: 20%;
+    padding-right: 20%;
+    padding-top: 40px;
+    justify-content: space-between;
+    color: white;
+    box-shadow: inset 0 10px 10px rgba(0, 0, 0, .5);
+    background-color: #333;
+}
